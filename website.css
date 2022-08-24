@@ -1,0 +1,51 @@
+body {
+
+    font-family: 'Silkscreen', cursive;
+    background-color:#9e6f75 ;
+
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+
+li {
+    list-style: none;
+}
+
+.bubble {
+    width: 300px;
+    margin: 50px auto;
+    border: 4px solid #bf0000;
+    padding: 20px;
+    text-align: center;
+    font-weight: 900;
+    color: #bf0000;
+    font-family: 'Silkscreen', cursive;
+    position: relative;
+    
+  }
+
+  .dawg {
+    margin-top: 0px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .pres {
+    text-decoration: none;
+    color: black;
+    
+  }
+
+   a:hover {
+    font-style: italic;
+    text-decoration: underline;
+    color:black;
+  }
+
+  
